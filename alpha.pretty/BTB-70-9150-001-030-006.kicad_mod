@@ -1,0 +1,9 @@
+(module BTB-70-9150-001-030-006 (layer F.Cu) (tedit 60EAC5EE)
+  (fp_text reference REF** (at 0 -2.032) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value BTB-70-9150-001-030-006 (at 9.398 -3.556) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd circle (at 0 0) (size 2.4 2.4) (layers F.Cu F.Paste F.Mask))
+)

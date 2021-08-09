@@ -1,0 +1,30 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# alpha_POGO
+#
+DEF alpha_POGO U 0 40 Y Y 1 F N
+F0 "U" 50 -100 50 H V C CNN
+F1 "alpha_POGO" 100 100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S 0 50 200 -50 0 1 0 N
+X 1 1 -100 0 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# alpha_wire_pad
+#
+DEF alpha_wire_pad U 0 40 Y Y 1 F N
+F0 "U" 100 -150 50 H V C CNN
+F1 "alpha_wire_pad" 250 150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S 100 100 350 -100 0 1 0 N
+X 1 1 0 0 100 R 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
